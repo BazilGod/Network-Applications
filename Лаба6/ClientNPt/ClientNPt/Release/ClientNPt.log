@@ -1,0 +1,30 @@
+﻿Сборка начата 18.12.2014 2:41:58.
+     1>Проект "D:\Учёба\3 курс\1 семестр (Вариант 3)\ПСП\Лабораторные работы\Lab_06\ClientNPt\ClientNPt\ClientNPt.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Release\ClientNPt.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\ClientNPt.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ClientNPt.cpp
+         ClientNPt.cpp
+     1>ClientNPt.cpp(138): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371): см. объявление "sprintf"
+     1>ClientNPt.cpp(140): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105): см. объявление "strcpy"
+     1>ClientNPt.cpp(141): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(110): см. объявление "strcat"
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Учёба\3 курс\1 семестр (Вариант 3)\ПСП\Лабораторные работы\Lab_06\ClientNPt\Release\ClientNPt.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\ClientNPt.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Учёба\3 курс\1 семестр (Вариант 3)\ПСП\Лабораторные работы\Lab_06\ClientNPt\Release\ClientNPt.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Учёба\3 курс\1 семестр (Вариант 3)\ПСП\Лабораторные работы\Lab_06\ClientNPt\Release\ClientNPt.lib" /MACHINE:X86 Release\ClientNPt.obj
+         Release\stdafx.obj
+         Создание кода
+         Создание кода завершено
+         ClientNPt.vcxproj -> D:\Учёба\3 курс\1 семестр (Вариант 3)\ПСП\Лабораторные работы\Lab_06\ClientNPt\Release\ClientNPt.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Учёба\3 курс\1 семестр (Вариант 3)\ПСП\Лабораторные работы\Lab_06\ClientNPt\Release\ClientNPt.exe;#1" /manifest Release\ClientNPt.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Release\ClientNPt.unsuccessfulbuild" удаляется.
+         Обращение к "Release\ClientNPt.lastbuildstate".
+     1>Построение проекта "D:\Учёба\3 курс\1 семестр (Вариант 3)\ПСП\Лабораторные работы\Lab_06\ClientNPt\ClientNPt\ClientNPt.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.53

@@ -1,0 +1,27 @@
+﻿Сборка начата 18.12.2014 9:19:53.
+     1>Проект "D:\Учёба\3 курс\1 семестр (Вариант 3)\ПСП\Лабораторные работы\Lab_06\ServerNP\ServerNP\ServerNP.vcxproj" в узле 2 (целевые объекты rebuild).
+     1>_PrepareForClean:
+         Файл "Release\ServerNP.lastbuildstate" удаляется.
+       InitializeBuildStatus:
+         Создание "Release\ServerNP.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\ServerNP.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\ServerNP.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ServerNP.cpp
+         ServerNP.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Учёба\3 курс\1 семестр (Вариант 3)\ПСП\Лабораторные работы\Lab_06\ServerNP\Release\ServerNP.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\ServerNP.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Учёба\3 курс\1 семестр (Вариант 3)\ПСП\Лабораторные работы\Lab_06\ServerNP\Release\ServerNP.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Учёба\3 курс\1 семестр (Вариант 3)\ПСП\Лабораторные работы\Lab_06\ServerNP\Release\ServerNP.lib" /MACHINE:X86 Release\ServerNP.obj
+         Release\stdafx.obj
+         Создание кода
+         Создание кода завершено
+         ServerNP.vcxproj -> D:\Учёба\3 курс\1 семестр (Вариант 3)\ПСП\Лабораторные работы\Lab_06\ServerNP\Release\ServerNP.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Учёба\3 курс\1 семестр (Вариант 3)\ПСП\Лабораторные работы\Lab_06\ServerNP\Release\ServerNP.exe;#1" /manifest Release\ServerNP.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Release\ServerNP.unsuccessfulbuild" удаляется.
+         Обращение к "Release\ServerNP.lastbuildstate".
+     1>Построение проекта "D:\Учёба\3 курс\1 семестр (Вариант 3)\ПСП\Лабораторные работы\Lab_06\ServerNP\ServerNP\ServerNP.vcxproj" завершено (целевые объекты rebuild).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.67

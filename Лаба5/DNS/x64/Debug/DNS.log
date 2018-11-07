@@ -1,0 +1,5 @@
+﻿  Server.cpp
+d:\5sem\сетевые приложухи\dns\dns\server.cpp(14): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+d:\5sem\сетевые приложухи\dns\dns\server.cpp(55): warning C4101: server: неиспользованная локальная переменная
+d:\5sem\сетевые приложухи\dns\dns\server.cpp(56): warning C4101: client: неиспользованная локальная переменная
+  DNS.vcxproj -> D:\5sem\Сетевые приложухи\DNS\x64\Debug\DNS.exe

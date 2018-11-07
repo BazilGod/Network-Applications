@@ -1,0 +1,23 @@
+﻿Сборка начата 28.11.2014 11:37:58.
+     1>Проект "D:\Учёба\3 курс\1 семестр (Вариант 3)\ПСП\Лабораторные работы\ServerNP\ServerNP\ServerNP.vcxproj" в узле 2 (целевые объекты build).
+     1>PrepareForBuild:
+         Создание каталога "D:\Учёба\3 курс\1 семестр (Вариант 3)\ПСП\Лабораторные работы\ServerNP\Debug\".
+       InitializeBuildStatus:
+         Создание "Debug\ServerNP.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\ServerNP.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\ServerNP.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ServerNP.cpp
+         ServerNP.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\ServerNP.exe.embed.manifest.res" Debug\ServerNP_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Учёба\3 курс\1 семестр (Вариант 3)\ПСП\Лабораторные работы\ServerNP\Debug\ServerNP.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\ServerNP.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Учёба\3 курс\1 семестр (Вариант 3)\ПСП\Лабораторные работы\ServerNP\Debug\ServerNP.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Учёба\3 курс\1 семестр (Вариант 3)\ПСП\Лабораторные работы\ServerNP\Debug\ServerNP.lib" /MACHINE:X86 Debug\ServerNP.exe.embed.manifest.res
+         Debug\ServerNP.obj
+         Debug\stdafx.obj
+     1>LINK : fatal error LNK1123: сбой при преобразовании в COFF: файл недопустим или поврежден
+     1>Построение проекта "D:\Учёба\3 курс\1 семестр (Вариант 3)\ПСП\Лабораторные работы\ServerNP\ServerNP\ServerNP.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:05.15

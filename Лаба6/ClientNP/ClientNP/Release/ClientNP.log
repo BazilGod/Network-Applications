@@ -1,0 +1,18 @@
+﻿Сборка начата 18.12.2014 9:30:31.
+     1>Проект "D:\Учёба\3 курс\1 семестр (Вариант 3)\ПСП\Лабораторные работы\Lab_06\ClientNP\ClientNP\ClientNP.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Release\ClientNP.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         ClientNP.vcxproj -> D:\Учёба\3 курс\1 семестр (Вариант 3)\ПСП\Лабораторные работы\Lab_06\ClientNP\Release\ClientNP.exe
+       FinalizeBuildStatus:
+         Файл "Release\ClientNP.unsuccessfulbuild" удаляется.
+         Обращение к "Release\ClientNP.lastbuildstate".
+     1>Построение проекта "D:\Учёба\3 курс\1 семестр (Вариант 3)\ПСП\Лабораторные работы\Lab_06\ClientNP\ClientNP\ClientNP.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.12
